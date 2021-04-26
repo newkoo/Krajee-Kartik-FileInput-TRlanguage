@@ -65,7 +65,7 @@
         msgValidationError: 'Doğrulama hatası',
         msgLoading: '{File} dosyadan {index} dosyası yükleniyor &hellip;',
         msgProgress: '{File} dosyasından {index} dosyası yükleniyor - {name} -% {percent} tamamlandı.',
-        msgSelected: '{n} {files} selected',
+        msgSelected: '{n} {files} seçildi',
         msgFoldersNotAllowed: 'Yalnızca dosyaları sürükleyip bırakın! Bırakılan {n} klasör atlandı.',
         msgImageWidthSmall: '"{Name}" resim dosyasının genişliği en az {size} piksel olmalıdır.',
         msgImageHeightSmall: '"{Name}" resim dosyasının yüksekliği en az {size} piksel olmalıdır.',
